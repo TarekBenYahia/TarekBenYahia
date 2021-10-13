@@ -52,7 +52,7 @@ Currently student at 5th and last year of my studies in software engineering cyc
 
 </p>
 <h2>Some Github Stats:</h2>
-<img src ="https://github-readme-stats.vercel.app/api?username=tarekbenyahia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src ="https://github-readme-stats.vercel.app/api?username=tarekbenyahia&theme=merko&show_icons=true">
 <!-- 
 **TarekBenYahia/TarekBenYahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
