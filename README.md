@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tarek :heartbeat:
 Currently student at 5th and last year of my studies in software engineering cycle. :computer: </br>Specialized in Mobile and Internet Systems :iphone:
 - 🔭 I’m currently searching for an end of study Internship
-- 🌱 I’m currently learning Kotlin ,Python and Unity..
+- 🌱 I’m currently learning Kotlin ,Python,Go and Unity..
 
 - 💬 Ask me about ...
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tarek-ben-yahia-29b750133/">My LinkedIn </a> or at : Tarek.benyahia@esprit.tn
@@ -39,6 +39,10 @@ Currently student at 5th and last year of my studies in software engineering cyc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
 <img src="https://img.icons8.com/fluency/50/000000/unity.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+
+  
 
 
 </p>
@@ -48,7 +52,7 @@ Currently student at 5th and last year of my studies in software engineering cyc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"  width="40"/>
-  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
+  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width = "40"/>
 
 </p>
 <h2>Some Github Stats:</h2>
