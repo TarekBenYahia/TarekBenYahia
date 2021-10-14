@@ -53,6 +53,8 @@ Currently student at 5th and last year of my studies in software engineering cyc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"  width="40"/>
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width = "40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width = "40"/>
+
 
 </p>
 <h2>Some Github Stats:</h2>
