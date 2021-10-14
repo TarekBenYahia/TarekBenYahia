@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Tarek :heartbeat:
 Currently student at 5th and last year of my studies in software engineering cycle. :computer: </br>Specialized in Mobile and Internet Systems :iphone:
 - 🔭 I’m currently searching for an end of study Internship
-- 🌱 I’m currently learning Mobile Kotlin ,Python and Unity..
+- 🌱 I’m currently learning Kotlin ,Python and Unity..
 
 - 💬 Ask me about ...
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tarek-ben-yahia-29b750133/">My LinkedIn </a> or at : Tarek.benyahia@esprit.tn
