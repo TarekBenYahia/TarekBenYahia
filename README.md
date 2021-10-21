@@ -58,7 +58,8 @@ Currently student at 5th and last year of my studies in software engineering cyc
 
 </p>
 <h2>Some Github Stats:</h2>
-<img src ="https://github-readme-stats.vercel.app/api?username=tarekbenyahia&theme=monokai&show_icons=true">
+<img src ="https://github-readme-stats.vercel.app/api?username=TarekBenYahia&show_icons=true&theme=monokai">
+
 
 
 <!-- 
