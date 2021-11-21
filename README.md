@@ -2,8 +2,6 @@
 Currently student at 5th and last year of my studies in software engineering cycle. :computer: </br>Specialized in Mobile and Internet Systems :iphone:
 - 🔭 I’m currently searching for an end of study Internship
 - 🌱 I’m currently learning Kotlin ,Python,Go and Unity..
-
-- 💬 Ask me about ...
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tarek-ben-yahia-29b750133/">My LinkedIn </a> or at : Tarek.benyahia@esprit.tn
 - 😄 Pronouns: He
 <h2>:technologist:	Technologies I use: </h2>
